@@ -1,0 +1,11 @@
+07-18-13 16:56:01	101.103.145.233	INFO	shared	Create User	user_id=admin
+07-18-13 16:56:01	101.103.145.233	INFO	shared	Create User	user_id=Client
+07-18-13 16:56:27	101.103.145.233	INFO	Client	Log In	
+07-18-13 16:56:41	101.103.145.233	INFO	Client	Log Out	
+07-18-13 16:56:53	101.103.145.233	INFO	admin	Log In	
+07-18-13 16:57:00	101.103.145.233	INFO	admin	Move	files=/AjaXplorer-QuickStart.txt;destination=/recycle_bin
+07-18-13 16:57:05	101.103.145.233	INFO	admin	Switch Repository	rep. id=ajxp_conf
+07-18-13 16:57:44	101.103.145.233	INFO	admin	Create User	user_id=client
+07-18-13 16:57:50	101.103.145.233	INFO	admin	Log Out	
+07-18-13 16:57:56	101.103.145.233	INFO	client	Log In	
+07-18-13 16:58:26	101.103.145.233	INFO	client	Upload File	file=//BvxfXs0.gif

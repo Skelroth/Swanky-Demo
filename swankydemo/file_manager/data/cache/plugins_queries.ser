@@ -1,0 +1,1 @@
+a:2:{s:26:"//action[@skipSecureToken]";a:9:{i:0;s:15:"ws_authenticate";i:1;s:9:"open_file";i:2;s:18:"preview_data_proxy";i:3;s:24:"postback_from_zohoserver";i:4;s:11:"git_getfile";i:5;s:14:"git_revertfile";i:6;s:12:"get_boot_gui";i:7;s:13:"get_boot_conf";i:8;s:11:"get_drop_bg";}s:67:"//server_settings/param[contains(@scope,'user') and @expose='true']";b:1;}

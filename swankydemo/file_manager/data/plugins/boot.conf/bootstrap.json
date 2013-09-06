@@ -1,0 +1,14 @@
+{
+  "core.conf":{
+    "UNIQUE_INSTANCE_CONFIG":{
+      "instance_name":"conf.serial",
+      "group_switch_value":"conf.serial"
+    }
+  },
+  "core.auth":{
+    "MASTER_INSTANCE_CONFIG":{
+      "instance_name":"auth.serial",
+      "group_switch_value":"auth.serial"
+    }
+  }
+}
